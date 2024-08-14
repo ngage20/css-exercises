@@ -1,0 +1,26 @@
+.one {
+    background-color: pink;
+    font-family: "verdana", sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler {
+    background-color: pink;
+    font-family: "Dejavu", sans-serif;
+    font-size: 24px;
+}
+
+#test {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.last {
+    background-color: pink;
+    font-family: "Verdana", sans-serif;
+}
